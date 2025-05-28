@@ -125,7 +125,7 @@ const Footer: FC = () => {
 
         {/* Bottom */}
         <div className="text-center text-sm text-muted-backgound mt-10 border-t border-gold pt-4">
-          © {new Date().getFullYear()} Reitsportanlage &quot;An der Bosel&quot;. Alle Rechte vorbehalten.
+          © {new Date().getFullYear()} Reitsportanlage '&quot;'An der Bosel'&quot;'. Alle Rechte vorbehalten.
         </div>
       </div>
     </footer>
