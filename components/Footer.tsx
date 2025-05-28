@@ -17,7 +17,7 @@ const Footer: FC = () => {
   return (
     <footer className="bg-primary text-background">
       <Backlinks />
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4 md:pt-6 pb-4 md:pb-6">
+      <div className=" max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4 md:pt-6 pb-4 md:pb-6">
         {/* Footer Grid */}
         <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-x-6 gap-y-10">
           <motion.div
