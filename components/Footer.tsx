@@ -15,10 +15,9 @@ const Footer: FC = () => {
   const [firstSection, secondSection, ...restSections] = NAV_LINKS;
 
   return (
-    <footer className="bg-primary text-background  pt-4 md:pt-6 pb-4 md:pb-6">
+    <footer className="bg-primary text-background">
       <Backlinks />
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4 md:pt-6 pb-4 md:pb-6">
         {/* Footer Grid */}
         <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-x-6 gap-y-10">
           <motion.div
@@ -40,7 +39,6 @@ const Footer: FC = () => {
             <p className="text-sm text-muted mt-5 leading-relaxed hidden sm:block">
             </p>
           </motion.div>
-
 
           {/* 1. First section */}
           <div>
@@ -84,19 +82,17 @@ const Footer: FC = () => {
                     {link.label}
                   </Link>
                 </li>
-                
               ))}
               <li>
-                 <Link href="/impressum" className="text-sm hover:underline">
-                   Impressum
-                 </Link>
-                 </li>
-            
-            <li>
-                 <Link href="/datenschutz" className="text-sm hover:underline">
-                   Datenschutz
-                 </Link>
-                 </li>
+                <Link href="/impressum" className="text-sm hover:underline">
+                  Impressum
+                </Link>
+              </li>
+              <li>
+                <Link href="/datenschutz" className="text-sm hover:underline">
+                  Datenschutz
+                </Link>
+              </li>
             </ul>
           </div>
 
@@ -104,18 +100,18 @@ const Footer: FC = () => {
           <div>
             <h4 className="font-semibold text-gold mb-2">{FOOTER_CONTACT_INFO.title}</h4>
             <ul className="text-sm space-y-2">
-            {FOOTER_CONTACT_INFO.links.map(({ label, value }) => (
-              <li key={label}>
-                <span>{label}:</span>{" "}
-                {label.toLowerCase().replace(/[^a-z]/g, "").includes("email") ? (
-                  <Link href={`mailto:${value}`} target="_blank" className="text-gold underline">
-                    {value}
-                  </Link>
-                ) : (
-                  <span className="text-gold">{value}</span>
-                )}
-              </li>
-            ))}
+              {FOOTER_CONTACT_INFO.links.map(({ label, value }) => (
+                <li key={label}>
+                  <span>{label}:</span>{" "}
+                  {label.toLowerCase().replace(/[^a-z]/g, "").includes("email") ? (
+                    <Link href={`mailto:${value}`} target="_blank" className="text-gold underline">
+                      {value}
+                    </Link>
+                  ) : (
+                    <span className="text-gold">{value}</span>
+                  )}
+                </li>
+              ))}
             </ul>
             <div>
               {SOCIALS.links.map((link, i) => (
@@ -131,7 +127,6 @@ const Footer: FC = () => {
         <div className="text-center text-sm text-muted-backgound mt-10 border-t border-gold pt-4">
           © {new Date().getFullYear()} Reitsportanlage &quot;An der Bosel&quot;. Alle Rechte vorbehalten.
         </div>
-        
       </div>
     </footer>
   );
