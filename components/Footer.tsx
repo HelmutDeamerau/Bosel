@@ -8,12 +8,15 @@ import {
   FOOTER_CONTACT_INFO,
   SOCIALS,
 } from "@/constants";
+import { FC } from 'react';
+import Backlinks from './Backlinks';
 
-const Footer = () => {
+const Footer: FC = () => {
   const [firstSection, secondSection, ...restSections] = NAV_LINKS;
 
   return (
     <footer className="bg-primary text-background  pt-4 md:pt-6 pb-4 md:pb-6">
+      <Backlinks />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Footer Grid */}
@@ -126,7 +129,7 @@ const Footer = () => {
 
         {/* Bottom */}
         <div className="text-center text-sm text-muted-backgound mt-10 border-t border-gold pt-4">
-          © {new Date().getFullYear()}  Reitsportanlage “An der Bosel”. Alle Rechte vorbehalten.
+          © {new Date().getFullYear()}  Reitsportanlage "An der Bosel". Alle Rechte vorbehalten.
         </div>
         
       </div>

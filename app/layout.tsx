@@ -5,6 +5,7 @@ import "./globals.css";
 import Footer from "@/components/Footer";
 import RouteLoader from "@/hooks/RouteLoader";
 import AppReadyWrapper from "@/hooks/AppReadyWrapper";
+import BusinessSchema from "@/components/BusinessSchema";
 
 const firaSans = Fira_Sans({
   subsets: ["latin"],
@@ -77,6 +78,9 @@ export const metadata: Metadata = {
 const RootLayout = async ({ children }: { children: ReactNode }) => {
   return (
     <html lang="de" className="scroll-smooth">
+      <head>
+        <BusinessSchema />
+      </head>
       <body
         className={`${firaSans.variable} font-sans antialiased bg-white text-gray-900`}
       >
