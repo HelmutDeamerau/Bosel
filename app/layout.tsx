@@ -81,6 +81,18 @@ const RootLayout = async ({ children }: { children: ReactNode }) => {
     <html lang="de" className="scroll-smooth">
       <head>
         <BusinessSchema />
+        {/* Google tag (gtag.js) */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-SYZYYZ5BHN"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-SYZYYZ5BHN');
+            `,
+          }}
+        />
       </head>
       <body
         className={`${firaSans.variable} font-sans antialiased bg-white text-gray-900`}
