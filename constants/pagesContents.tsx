@@ -200,14 +200,14 @@ Jeder kann unserem Verein beitreten, der die Ziele und Interessen des Vereins, d
 
 
 "reiterferien": {
-  title: "Reiterferien in Dresden | Reitanlage Bosel",
-  description: `Erleben Sie unvergessliche Reiterferien in Dresden bei der Reitanlage Bosel. Professioneller Reitunterricht, Pferdepension und Reitschule in Coswig bei Meißen. Ideal für Kinder und Erwachsene.`,
+  title: "Reiterferien Dresden & Meißen | Reitanlage Bosel - Professioneller Reitunterricht",
+  description: `Erleben Sie unvergessliche Reiterferien in Dresden & Meißen bei der Reitanlage Bosel. Professioneller Reitunterricht, Pferdepension und Reitschule in Coswig. Ideal für Kinder und Erwachsene.`,
   images: ["/Reiterferien/rf1.webp", "/Reiterferien/rf2.webp","/Reiterferien/rf3.webp", "/Reiterferien/rf4.webp","/Reiterferien/rf5.webp", "/Reiterferien/rf6.webp","/Reiterferien/rf7.webp", "/Reiterferien/rf8.webp","/Reiterferien/rf9.webp", "/Reiterferien/rf10.webp","/Reiterferien/rf11.webp", "/Reiterferien/rf12.webp","/Reiterferien/rf13.webp", "/Reiterferien/rf14.webp","/Reiterferien/rf15.webp", "/Reiterferien/rf16.webp","/Reiterferien/rf17.webp", "/Reiterferien/rf18.webp","/Reiterferien/rf19.webp", "/Reiterferien/rf20.webp","/Reiterferien/rf21.jpg", "/Reiterferien/rf22.jpg","/Reiterferien/rf23.jpg", "/Reiterferien/rf24.jpg","/Reiterferien/rf25.jpg", "/Reiterferien/rf26.jpg","/Reiterferien/rf27.jpg", "/Reiterferien/rf28.jpg","/Reiterferien/rf29.jpg", "/Reiterferien/rf30.jpg"],
   content: (
     <>
-      <h2 className="text-2xl font-bold mb-4">Reiterferien in Dresden - Ihr perfekter Reiturlaub</h2>
+      <h2 className="text-2xl font-bold mb-4">Reiterferien in Dresden & Meißen - Ihr perfekter Reiturlaub</h2>
       <p className="mb-6">
-        Willkommen bei den Reiterferien in Dresden! Unsere Reitanlage Bosel bietet Ihnen und Ihren Kindern ein unvergessliches Reiterlebnis in der Nähe von Dresden. Mit unserer langjährigen Erfahrung als Reiterhof Dresden und Reitstall Sachsen garantieren wir professionellen Reitunterricht und eine liebevolle Betreuung.
+        Willkommen bei den Reiterferien in Dresden & Meißen! Unsere Reitanlage Bosel bietet Ihnen und Ihren Kindern ein unvergessliches Reiterlebnis in der Nähe von Dresden. Mit unserer langjährigen Erfahrung als Reiterhof Dresden und Reitstall Sachsen garantieren wir professionellen Reitunterricht und eine liebevolle Betreuung.
       </p>
       <h2 className="text-2xl font-bold mb-4">Unsere Reiterferien für Kinder</h2>
       <p className="mb-6">
