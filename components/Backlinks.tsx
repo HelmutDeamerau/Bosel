@@ -55,13 +55,13 @@ const Backlinks: FC = () => {
   ];
 
   return (
-    <div className="bg-gray-50 py-8">
+    <div className="bg-primary py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-2xl font-bold text-gray-900 mb-6">Partner & Verbände</h2>
+        <h2 className="text-2xl font-bold text-gold mb-6 text-center">Partner & Verbände</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {backlinks.map((category) => (
-            <div key={category.category} className="bg-white rounded-lg shadow p-6">
-              <h3 className="text-lg font-semibold text-gray-900 mb-4">{category.category}</h3>
+            <div key={category.category} className="bg-background rounded-lg shadow p-6">
+              <h3 className="text-lg font-semibold text-gold mb-4">{category.category}</h3>
               <ul className="space-y-4">
                 {category.links.map((link) => (
                   <li key={link.name}>
@@ -69,10 +69,10 @@ const Backlinks: FC = () => {
                       href={link.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block hover:bg-gray-50 rounded-md p-3 transition-colors"
+                      className="block hover:bg-primary/10 rounded-md p-3 transition-colors"
                     >
-                      <div className="font-medium text-blue-600">{link.name}</div>
-                      <div className="text-sm text-gray-500">{link.description}</div>
+                      <div className="font-medium text-gold">{link.name}</div>
+                      <div className="text-sm text-muted">{link.description}</div>
                     </a>
                   </li>
                 ))}
