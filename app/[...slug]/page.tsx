@@ -55,7 +55,7 @@ export default async function Page({ params }: PageProps) {
         <JsonLd
           type="TouristAttraction"
           data={{
-            name: "Reiterferien in Dresden - Reitanlage Bosel",
+            name: "Reiterferien in Sachsen - Reitanlage An derBosel",
             description: content.description,
             address: {
               "@type": "PostalAddress",
