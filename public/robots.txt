@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /reiterferien
+Allow: /reitanlage
+Allow: /pferdepension
+Allow: /ausbildung
+Allow: /reitschule
+Allow: /reitverein
+Allow: /kontakt
+
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+Sitemap: https://reitanlage-bosel.de/sitemap.xml 

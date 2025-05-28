@@ -50,13 +50,13 @@ export const pageContents: Record<string, PageContent> = {
 
  "reitanlage/reithalle": {
     title: "Reithalle",
-    description: `Herzstück unserer Reitanlage bildet die im Jahr 2013 erbaute Reithalle mit den Maßen 22m x 60m. Äu­ßerlich punktet sie durch eine der Landschaft an­gepassten Gestaltung in Holzbaukonstruktion. Großzügige Rundumverglasung, ein Lichtband im Dachfirst und gute Beleuchtung für die Abendstunden gewährleisten jeder­zeit ideale Lichtver­hältnisse und eine taghelle Atmosphäre.
+    description: `Herzstück unserer Reitanlage bildet die im Jahr 2013 erbaute Reithalle mit den Maßen 22m x 60m. Äußerlich punktet sie durch eine der Landschaft angepassten Gestaltung in Holzbaukonstruktion. Großzügige Rundumverglasung, ein Lichtband im Dachfirst und gute Beleuchtung für die Abendstunden gewährleisten jederzeit ideale Lichtverhältnisse und eine taghelle Atmosphäre.
 
-      Das wärmeisolierende Dach reguliert die Temperaturen und bietet somit bei jeder Jahreszeit optimale Trainingsbedingungen. Besonders innovativ ist die Ausführung der Hufschlagbande in Tropfenform. Durch ihr ab­gerundetes Profil, welches dem Körper des Pferdes angepasst ist, gibt sie den Pferden eine sichere Anlehnung.
+      Das wärmeisolierende Dach reguliert die Temperaturen und bietet somit bei jeder Jahreszeit optimale Trainingsbedingungen. Besonders innovativ ist die Ausführung der Hufschlagbande in Tropfenform. Durch ihr abgerundetes Profil, welches dem Körper des Pferdes angepasst ist, gibt sie den Pferden eine sichere Anlehnung.
 
-                    Ein hochwertiger Hallenreitboden, bestehend aus einer abgestimmten Mischung aus speziellem Fein­sand und synthetischen Stoffen, bietet eine hohe Elastizität und ist somit für jede Art des Reitsports ausgerichtet. Selbst bei Belastung und dem Reiten von anspruchsvollen Aufgaben bleibt unser Reitboden trittstabil und ermöglicht einen hervorragenden Reitkomfort. Die Gelenke der Pferde werden geschont, Bänder und Knochen ent­lastet, Schwung sowie Durchlässigkeit werden aktiviert.
+                    Ein hochwertiger Hallenreitboden, bestehend aus einer abgestimmten Mischung aus speziellem Fein­sand und synthetischen Stoffen, bietet eine hohe Elastizität und ist somit für jede Art des Reitsports ausgerichtet. Selbst bei Belastung und dem Reiten von anspruchsvollen Aufgaben bleibt unser Reitboden trittstabil und ermöglicht einen hervorragenden Reitkomfort. Die Gelenke der Pferde werden geschont, Bänder und Knochen entlastet, Schwung sowie Durchlässigkeit werden aktiviert.
 
-                 Eine automatische Beregnungsanlage in der Reithalle trägt wesentlich zur Verbesserung der Elastizität der Tret­schicht bei, vermeidet Staubbildung und sorgt so­mit zur Verbesserung des Hallenklimas.
+                 Eine automatische Beregnungsanlage in der Reithalle trägt wesentlich zur Verbesserung der Elastizität der Tret­schicht bei, vermeidet Staubbildung und sorgt somit zur Verbesserung des Hallenklimas.
 
                         Unsere Zuschauerplätze auf einer seitlichen Tribüne sind für den perfekten Überblick konstruiert.`,
     images: ["/Reithalle/rh1.webp","/Reithalle/rh2.webp","/Reithalle/rh3.webp","/Reithalle/rh4.webp"],
@@ -110,17 +110,17 @@ export const pageContents: Record<string, PageContent> = {
   "pferdepension/stallungen": {
     title: "Stallungen",
     description: `Unser Ziel: Glückliche Pferde und ein rundum zufriedener Kunde!
-Unserer Pferdepension steht eine Vielzahl großräumiger, komfortabler Boxen zur Verfügung. Zahlreiche Glaselemente, weitläufige Lichtfronten und breite Stallgassen sorgen für viel Hellig- und Großräumigkeit. Ein perfek­tes Abluftsystem sorgt für eine gute Belüftung und ein angenehmes Stallklima zu jeder Jahreszeit. Die Aufteilung in verschiedene Stallbereiche gewährleistet, dass die unterschiedlichen Funktionsbereiche wie Schulbetrieb, Jungpferdetraining und private Einstaller mit einem gewissen Abstand voneinander stattfinden können. Somit wird sichergestellt, dass jedes Pferd eine stressfreie Umgebung genießen und genügend Ruhe bekommen kann.
+Unserer Pferdepension steht eine Vielzahl großräumiger, komfortabler Boxen zur Verfügung. Zahlreiche Glaselemente, weitläufige Lichtfronten und breite Stallgassen sorgen für viel Hellig- und Großräumigkeit. Ein perfektes Abluftsystem sorgt für eine gute Belüftung und ein angenehmes Stallklima zu jeder Jahreszeit. Die Aufteilung in verschiedene Stallbereiche gewährleistet, dass die unterschiedlichen Funktionsbereiche wie Schulbetrieb, Jungpferdetraining und private Einstaller mit einem gewissen Abstand voneinander stattfinden können. Somit wird sichergestellt, dass jedes Pferd eine stressfreie Umgebung genießen und genügend Ruhe bekommen kann.
 
-Alle Stallanlagen verfügen über eigene Sattelkammern mit abschließbaren Sattelschränken zur Unterbringung Ihrer persönlichen Reitutensili­en.
+Alle Stallanlagen verfügen über eigene Sattelkammern mit abschließbaren Sattelschränken zur Unterbringung Ihrer persönlichen Reitutensiliens.
 
-Vor bzw. in jedem Stallgebäude befinden sich Putzplätze für die Pflege Ihres Pferdes. Für eine wohlwollende Abkühlung nach dem Trai­ning oder an heißen Sommertagen sorgt unsere Pferdedusche im Außenbereich.`,
+Vor bzw. in jedem Stallgebäude befinden sich Putzplätze für die Pflege Ihres Pferdes. Für eine wohlwollende Abkühlung nach dem Training oder an heißen Sommertagen sorgt unsere Pferdedusche im Außenbereich.`,
     images: ["/Stallungen/st1.webp", "/Stallungen/st2.webp","/Stallungen/st3.webp", "/Stallungen/st4.webp","/Stallungen/st5.webp", "/Stallungen/st6.webp","/Stallungen/st7.webp", "/Stallungen/st8.webp","/Stallungen/st9.webp", "/Stallungen/st10.webp","/Stallungen/st11.webp", "/Stallungen/st12.webp","/Stallungen/st13.webp", "/Stallungen/st14.webp"],
   },
 
  "pferdepension/betreuung-und-fuetterung": {
     title: "Betreuung & Fütterung",
-    description: `Die uns anvertrauten Pferde genießen unsere ganze Aufmerksamkeit und Fürsorge. Ein Team aus erfahrenen Helfern und langjährigen Mitarbeitern sorgt sich fachkundig um das Wohl und die Gesundheit sowie um eine liebevolle Betreuung der Pferde. Die Pferdeboxen werden täglich gemistet und frische Einstreu eingebracht. Durch regelmäßige Boxen- und Stallreini­gungen sichern wir eine saubere, optimale Stallatmo­sphäre. Die Futtergabe erfolgt nach individuellem Bedarf mit Raufutter (Heu, Stroh) und Kraftfutter (Hafer, Gerste etc.). Das Raufutter stammt aus eigener Herstellung und zeichnet sich durch eine hohe Qualität aus. Die Menge an Kraftfutter wird individuell auf den Bedarf Ihres Pferdes abgestimmt. Beheizte Selbsttränken in jeder Box versorgen die Pferde mit frischem und temperiertem Wasser.
+    description: `Die uns anvertrauten Pferde genießen unsere ganze Aufmerksamkeit und Fürsorge. Ein Team aus erfahrenen Helfern und langjährigen Mitarbeitern sorgt sich fachkundig um das Wohl und die Gesundheit sowie um eine liebevolle Betreuung der Pferde. Die Pferdeboxen werden täglich gemistet und frische Einstreu eingebracht. Durch regelmäßige Boxen- und Stallreinigungen sichern wir eine saubere, optimale Stallatmosphäre. Die Futtergabe erfolgt nach individuellem Bedarf mit Raufutter (Heu, Stroh) und Kraftfutter (Hafer, Gerste etc.). Das Raufutter stammt aus eigener Herstellung und zeichnet sich durch eine hohe Qualität aus. Die Menge an Kraftfutter wird individuell auf den Bedarf Ihres Pferdes abgestimmt. Beheizte Selbsttränken in jeder Box versorgen die Pferde mit frischem und temperiertem Wasser.
 
 Ein wesentlicher Baustein einer artgerechten Pferdehaltung ist die Gesundheit des Tieres zu erhalten bzw. wiederherzustellen. Externe Partner unterstützen uns hier umfassend in der medizinischen Betreuung (Tierarzt, Hufschmied, -orthopädie) und therapeutischen Behandlung (Physiotherapie, Osteopathie, Akupunktur).`,
     images: ["/Betreuung & Fütterung/bf1.webp","/Betreuung & Fütterung/bf2.webp","/Betreuung & Fütterung/bf3.webp","/Betreuung & Fütterung/bf4.webp","/Betreuung & Fütterung/bf5.webp","/Betreuung & Fütterung/bf6.webp","/Betreuung & Fütterung/bf7.webp","/Betreuung & Fütterung/bf8.webp"],
@@ -128,7 +128,7 @@ Ein wesentlicher Baustein einer artgerechten Pferdehaltung ist die Gesundheit de
 
   "pferdepension/reit-und-bewegungsplaetze": {
     title: "Reit- & Bewegungsplätze",
-    description: `Eine Vielzahl an Trainings- und Bewegungsmöglichkeiten für Ihr Pferd stellen wir dir in unserer Reit­anlage zur Verfügung:`,
+    description: `Eine Vielzahl an Trainings- und Bewegungsmöglichkeiten für Ihr Pferd stellen wir dir in unserer Reitanlage zur Verfügung:`,
     images: ["/Reit- & Bewegungsplätze/rb1.webp","/Reit- & Bewegungsplätze/rb2.webp","/Reit- & Bewegungsplätze/rb3.webp","/Reit- & Bewegungsplätze/rb4.webp","/Reit- & Bewegungsplätze/rb5.webp"],
     content: (
       <ContentBewegungsplaetze />
@@ -160,7 +160,7 @@ du möchtest erste Erfahrungen auf dem Pferderücken sammeln, sich weiterbilden.
 
   "reitverein": {
     title: "Reitsportverein",
-    description: `Am 09. Februar 2014 gründete sich unser Reitsportverein „RSV- An der Bosel e.V.“ und ist im Vereinsregister Dresden unter der Nummer VR 6914 eingetragen.
+    description: `Am 09. Februar 2014 gründete sich unser Reitsportverein "RSV- An der Bosel e.V." und ist im Vereinsregister Dresden unter der Nummer VR 6914 eingetragen.
 
 Unser Verein hat es sich zur Aufgabe gemacht, vor allem die Reiterjugend an ein umweltverträgliches und im Einklang mit der Natur befindliches Reiten heranzuführen und Reitern jeden Alters ein Umfeld zur Ausübung ihres Hobbys zu schaffen. In unserem Reitsportverein finden die Reiterjugend sowie die gestande­nen Reiterinnen und Reiter einen Heimatverein für die ersten und weite­ren sportlichen Erfolge. Und nicht zuletzt pflegen wir ein geselliges und freundschaftliches Mit­einander zwischen Jung und Alt, Reiter und Nichtreiter, Pferdebesitzer oder Pferdefreund.
 
@@ -200,14 +200,37 @@ Jeder kann unserem Verein beitreten, der die Ziele und Interessen des Vereins, d
 
 
 "reiterferien": {
-  title: "Reiterferien 2025",
-  description: `Auch in diesem Jahr bieten wir wieder das Abenteuer Pferdecamp auf unserer Reitanlage an. Kinder und Jugendliche ab dem Alter von 7 Jahren können bei uns eine ganze Woche erlebnisreiche und spannende Reiterferien verbringen.`,
+  title: "Reiterferien in Dresden | Reitanlage Bosel",
+  description: `Erleben Sie unvergessliche Reiterferien in Dresden bei der Reitanlage Bosel. Professioneller Reitunterricht, Pferdepension und Reitschule in Coswig bei Meißen. Ideal für Kinder und Erwachsene.`,
   images: ["/Reiterferien/rf1.webp", "/Reiterferien/rf2.webp","/Reiterferien/rf3.webp", "/Reiterferien/rf4.webp","/Reiterferien/rf5.webp", "/Reiterferien/rf6.webp","/Reiterferien/rf7.webp", "/Reiterferien/rf8.webp","/Reiterferien/rf9.webp", "/Reiterferien/rf10.webp","/Reiterferien/rf11.webp", "/Reiterferien/rf12.webp","/Reiterferien/rf13.webp", "/Reiterferien/rf14.webp","/Reiterferien/rf15.webp", "/Reiterferien/rf16.webp","/Reiterferien/rf17.webp", "/Reiterferien/rf18.webp","/Reiterferien/rf19.webp", "/Reiterferien/rf20.webp","/Reiterferien/rf21.jpg", "/Reiterferien/rf22.jpg","/Reiterferien/rf23.jpg", "/Reiterferien/rf24.jpg","/Reiterferien/rf25.jpg", "/Reiterferien/rf26.jpg","/Reiterferien/rf27.jpg", "/Reiterferien/rf28.jpg","/Reiterferien/rf29.jpg", "/Reiterferien/rf30.jpg"],
   content: (
-    <ContentReiterferien />    
+    <>
+      <h2 className="text-2xl font-bold mb-4">Reiterferien in Dresden - Ihr perfekter Reiturlaub</h2>
+      <p className="mb-6">
+        Willkommen bei den Reiterferien in Dresden! Unsere Reitanlage Bosel bietet Ihnen und Ihren Kindern ein unvergessliches Reiterlebnis in der Nähe von Dresden. Mit unserer langjährigen Erfahrung als Reiterhof Dresden und Reitstall Sachsen garantieren wir professionellen Reitunterricht und eine liebevolle Betreuung.
+      </p>
+      <h2 className="text-2xl font-bold mb-4">Unsere Reiterferien für Kinder</h2>
+      <p className="mb-6">
+        Speziell für Kinder ab 7 Jahren bieten wir spannende Reiterferien an. In kleinen Gruppen lernen die jungen Reiter den sicheren Umgang mit Pferden, erhalten qualifizierten Reitunterricht und erleben unvergessliche Abenteuer auf unserem Reiterhof.
+      </p>
+      <ContentReiterferien />
+    </>
   ),
   extra: (
-    <ExtraReiterferien />
+    <>
+      <ExtraReiterferien />
+      <div className="mt-8">
+        <h2 className="text-2xl font-bold mb-4">Warum Reiterferien bei uns?</h2>
+        <ul className="list-disc pl-6 space-y-2">
+          <li>Professioneller Reitunterricht durch qualifizierte Reitlehrer</li>
+          <li>Gut ausgebildete und liebevolle Schulpferde</li>
+          <li>Moderne Reitanlage mit Halle und Außenplätzen</li>
+          <li>Vollverpflegung während der Reiterferien</li>
+          <li>Unterbringung in gemütlichen Zimmern</li>
+          <li>Abwechslungsreiches Freizeitprogramm</li>
+        </ul>
+      </div>
+    </>
   ),
 },
 };

@@ -5,6 +5,7 @@ import { ImageSlider } from "@/components/pagesComponents/ImageSlider";
 import InfoCard from "@/components/pagesComponents/InfoCard";
 import AnimatePageWrapper from "@/components/AnimatePageWrapper";
 import { Metadata } from "next";
+import JsonLd from "@/components/JsonLd";
 
 type PageProps = {
   params: Promise<{
@@ -46,9 +47,47 @@ export default async function Page({ params }: PageProps) {
   if (!content) return notFound();
 
   const isKontaktPage = slugPath === "kontakt";
+  const isReiterferienPage = slugPath === "reiterferien";
 
   return (
     <div className="bg-primary-foreground">
+      {isReiterferienPage && (
+        <JsonLd
+          type="TouristAttraction"
+          data={{
+            name: "Reiterferien in Dresden - Reitanlage Bosel",
+            description: content.description,
+            address: {
+              "@type": "PostalAddress",
+              streetAddress: "Köhlerstraße 107",
+              addressLocality: "Coswig",
+              addressRegion: "Sachsen",
+              postalCode: "01640",
+              addressCountry: "DE"
+            },
+            geo: {
+              "@type": "GeoCoordinates",
+              latitude: "51.1333",
+              longitude: "13.5833"
+            },
+            url: "https://reitanlage-bosel.de/reiterferien",
+            telephone: "+493523774500",
+            openingHoursSpecification: {
+              "@type": "OpeningHoursSpecification",
+              dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+              opens: "08:00",
+              closes: "20:00"
+            },
+            priceRange: "€€",
+            image: content.images?.[0],
+            aggregateRating: {
+              "@type": "AggregateRating",
+              ratingValue: "4.8",
+              reviewCount: "150"
+            }
+          }}
+        />
+      )}
       <PageHeader title={content.title} />
       <AnimatePageWrapper>
         <main className="padding-section mx-auto px-4 py-12 space-y-12 text-white 2xl:mt-0 lg:mt-4">

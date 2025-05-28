@@ -14,17 +14,20 @@ const firaSans = Fira_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Reitanlage Bosel",
-  description: "Die Reitsportanlage an der Bosel bietet Reitanlagen, Pferdepensionen und eine Reitschule in Coswig bei Meißen in der Nähe von Dresden.",
+  title: "Reiterferien in Dresden | Reitanlage Bosel",
+  description: "Erleben Sie unvergessliche Reiterferien in Dresden bei der Reitanlage Bosel. Professioneller Reitunterricht, Pferdepension und Reitschule in Coswig bei Meißen. Ideal für Kinder und Erwachsene.",
   keywords: [
+    "Reiterferien in Dresden",
+    "Reitferien für Kinder",
+    "Reitunterricht Dresden",
+    "Reiterhof Dresden",
+    "Reitstall Sachsen",
     "Pferdepension Dresden",
     "Reitanlage Dresden",
     "Reitschule Dresden",
     "PferdePensionen Dresden",
     "Reiten lernen Dresden",
-    "Reiterferien Dresden",
     "Reiten Dresden",
-
     "Pferdepension Meißen",
     "Reitanlage Meißen",
     "Reitschule Meißen",
@@ -32,7 +35,6 @@ export const metadata: Metadata = {
     "Reiten lernen Meißen",
     "Reiterferien Meißen",
     "Reiten Meißen",
-    
     "Pferdepension Sachsen",
     "Reitanlage Sachsen",
     "Reitschule Sachsen",
@@ -40,26 +42,35 @@ export const metadata: Metadata = {
     "Reiten lernen Sachsen",
     "Reiterferien Sachsen",
     "Reiten Sachsen",
-    
-    
   ],
   openGraph: {
-    title: "Reitanlage Bosel",
-    description: "Reiten lernen & Pferdepension in Coswig bei Dresden.",
+    title: "Reiterferien in Dresden | Reitanlage Bosel",
+    description: "Professioneller Reitunterricht & Pferdepension in Coswig bei Dresden. Erleben Sie unvergessliche Reiterferien für die ganze Familie.",
     type: "website",
-    url: "https://bosel-reitanlage.de",
+    url: "https://reitanlage-bosel.de",
     images: [
       {
         url: "/og-image.webp",
         width: 1200,
         height: 630,
-        alt: "Reitanlage Bosel",
+        alt: "Reiterferien in Dresden - Reitanlage Bosel",
       },
     ],
   },
-  metadataBase: new URL("https://bosel-reitanlage.de"), 
+  metadataBase: new URL("https://reitanlage-bosel.de"),
   alternates: {
     canonical: "/",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
 };
 
