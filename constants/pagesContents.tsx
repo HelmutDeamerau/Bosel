@@ -1,5 +1,5 @@
 import ContentAusbildung from "@/components/ContentComponent/ContentAusbildung";
-import ContentAussenanlage from "@/components/ContentComponent/Contentaussenanlage";
+import ContentAussenanlage from "@/components/ContentComponent/ContentAussenanlage";
 import ContentBewegungsplaetze from "@/components/ContentComponent/ContentBewegungsplaetze";
 import ContentDatenschutze from "@/components/ContentComponent/ContentDatenschutze";
 import ContentImpressum from "@/components/ContentComponent/ContentImpressum";
