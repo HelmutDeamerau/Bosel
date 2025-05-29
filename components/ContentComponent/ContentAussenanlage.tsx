@@ -8,7 +8,7 @@ const ContentAussenanlage = () => {
         <h1 className='text-gold text-xl mb-4 font-semibold'>Allwetterpaddocks</h1>
         <div className='flex items-center justify-between gap-5 md:flex-row flex-col-reverse'>
           <Image
-            src="/reitanlage/ra4.webp"
+            src="/reitanlage/ra7.webp"
             alt='image'
             width={340}
             height={80}
