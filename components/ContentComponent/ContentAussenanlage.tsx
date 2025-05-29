@@ -7,16 +7,7 @@ const ContentAussenanlage = () => {
       <div>
         <h1 className='text-gold text-xl mb-4 font-semibold'>Allwetterpaddocks</h1>
         <div className='flex items-center justify-between gap-5 md:flex-row flex-col-reverse'>
-          <Image
-            src="/reitanlage/ra12.webp"
-            alt='image'
-            width={340}
-            height={80}
-            loading='lazy'
-            objectFit='cover'
-            objectPosition='top'
-            className='rounded-md border-gold border w-fit h-60'
-            />
+       
           <p>
           Mehrere Paddocks verschiedener Größen, ermöglichen den Pferden bei fast jedem Wetter Aufenthalt und freie Bewegung an der frischen Luft, Kontakt zu ihren Artgenossen, Entspannungen und Erholungen.
           </p>
