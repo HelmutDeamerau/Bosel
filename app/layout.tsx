@@ -15,8 +15,8 @@ const firaSans = Fira_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Reiterferien Sachsen | Reitanlage Bosel - Professioneller Reitunterricht",
-  description: "Erleben Sie unvergessliche Reiterferien in  Sachsen bei der Reitanlage Bosel. Professioneller Reitunterricht, Pferdepension und Reitschule in Coswig. Ideal für Kinder und Erwachsene.",
+  title: "Reiterferien in Sachsen | Reitanlage Bosel - Professioneller Reitunterricht",
+  description: "Erleben Sie unvergessliche Reiterferien in Sachsen bei der Reitanlage Bosel. Professioneller Reitunterricht, Pferdepension und Reitschule in Coswig. Ideal für Kinder und Erwachsene.",
   keywords: [
     "Reiterferien Dresden",
     "Reiterferien Meißen",
