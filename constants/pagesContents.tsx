@@ -1,4 +1,4 @@
-import ContentAusbildung from "@/components/ContentComponent/ContenetAusbildung";
+import ContentAusbildung from "@/components/ContentComponent/ContentAusbildung";
 import ContentAussenanlage from "@/components/ContentComponent/ContentAussenanlage";
 import ContentBewegungsplaetze from "@/components/ContentComponent/ContentBewegungsplaetze";
 import ContentDatenschutze from "@/components/ContentComponent/ContentDatenschutze";
