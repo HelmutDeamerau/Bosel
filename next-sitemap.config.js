@@ -7,9 +7,6 @@ module.exports = {
   sitemapSize: 7000,
   exclude: ['/admin/*', '/api/*', '/404', '/500'],
   robotsTxtOptions: {
-    additionalSitemaps: [
-      'https://reitanlage-bosel.de/sitemap.xml',
-    ],
     policies: [
       {
         userAgent: '*',
