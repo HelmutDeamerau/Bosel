@@ -1,5 +1,5 @@
 import ContentAusbildung from "@/components/ContentComponent/ContenetAusbildung";
-import ContetnAussenanlage from "@/components/ContentComponent/Contentaussenanlage";
+import ContentAussenanlage from "@/components/ContentComponent/Contentaussenanlage";
 import ContentBewegungsplaetze from "@/components/ContentComponent/ContentBewegungsplaetze";
 import ContentDatenschutze from "@/components/ContentComponent/ContentDatenschutze";
 import ContentImpressum from "@/components/ContentComponent/ContentImpressum";
@@ -66,7 +66,7 @@ export const pageContents: Record<string, PageContent> = {
     title: "Außenanlage",
     description: `Großzügige Außenplätze und Galoppstrecken im Grünen – perfekt für jede Reiteinheit.`,
     content: (
-      <ContetnAussenanlage />    
+      <ContentAussenanlage />    
     ),
   },
 
