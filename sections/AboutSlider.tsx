@@ -15,7 +15,7 @@ type PageKey = typeof selectedPages[number];
 const images: Record<PageKey, string> = {
   reitanlage: "/Reitanlage/ra5.webp",
   pferdepension: "/Stallungen/st2.webp",
-  kontakt: "/Unterlagen/kont.webp",
+  kontakt: "/Reitanlage/ra12.webp",
 };
 
 const AUTO_SLIDE_DELAY = 7000;

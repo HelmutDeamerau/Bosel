@@ -1,5 +1,5 @@
 import ContentAusbildung from "@/components/ContentComponent/ContenetAusbildung";
-import ContentAussenanlage from "@/components/ContentComponent/Contentaussenanlage";
+import ContentAussenanlage from "@/components/ContentComponent/ContentAussenanlage";
 import ContentBewegungsplaetze from "@/components/ContentComponent/ContentBewegungsplaetze";
 import ContentDatenschutze from "@/components/ContentComponent/ContentDatenschutze";
 import ContentImpressum from "@/components/ContentComponent/ContentImpressum";
@@ -200,7 +200,7 @@ Jeder kann unserem Verein beitreten, der die Ziele und Interessen des Vereins, d
 
 
 "reiterferien": {
-  title: "Reiterferien Dresden & Meißen | Reitanlage Bosel",
+  title: "Reiterferien Sachsen | Reitanlage Bosel",
   description: `Erleben Sie unvergessliche Reiterferien bei der Reitanlage Bosel in Coswig bei Dresden. Professioneller Reitunterricht, Pferdepension und Reitschule für Kinder und Erwachsene.`,
   images: ["/Reiterferien/rf1.webp", "/Reiterferien/rf2.webp","/Reiterferien/rf3.webp", "/Reiterferien/rf4.webp","/Reiterferien/rf5.webp", "/Reiterferien/rf6.webp","/Reiterferien/rf7.webp", "/Reiterferien/rf8.webp","/Reiterferien/rf9.webp", "/Reiterferien/rf10.webp","/Reiterferien/rf11.webp", "/Reiterferien/rf12.webp","/Reiterferien/rf13.webp", "/Reiterferien/rf14.webp","/Reiterferien/rf15.webp", "/Reiterferien/rf16.webp","/Reiterferien/rf17.webp", "/Reiterferien/rf18.webp","/Reiterferien/rf19.webp", "/Reiterferien/rf20.webp","/Reiterferien/rf21.jpg", "/Reiterferien/rf22.jpg","/Reiterferien/rf23.jpg", "/Reiterferien/rf24.jpg","/Reiterferien/rf25.jpg", "/Reiterferien/rf26.jpg","/Reiterferien/rf27.jpg", "/Reiterferien/rf28.jpg","/Reiterferien/rf29.jpg", "/Reiterferien/rf30.jpg"],
   content: (
