@@ -36,8 +36,11 @@ module.exports = {
       changefreq = 'weekly';
     }
 
+    // Ensure unique URLs
+    const loc = path === '/' ? config.siteUrl : `${config.siteUrl}${path}`;
+
     return {
-      loc: path,
+      loc,
       changefreq,
       priority,
       lastmod: config.autoLastmod ? new Date().toISOString() : undefined,
