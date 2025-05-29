@@ -18,7 +18,7 @@ const ContentAussenanlage = () => {
             className='rounded-md border-gold border w-fit h-60'
             />
           <p>
-          Mehrere Paddocks verschiedener Größen, ermöglichen den Pferden bei fast jedem Wetter Aufenthalt und freie Bewegung an der frischen Luft, Kontakt zu ihren Artgenossen, Entspannung und Erholung.
+          Mehrere Paddocks verschiedener Größen, ermöglichen den Pferden bei fast jedem Wetter Aufenthalt und freie Bewegung an der frischen Luft, Kontakt zu ihren Artgenossen, Entspannungen und Erholungen.
           </p>
         </div>
       </div>
