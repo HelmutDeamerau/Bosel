@@ -58,6 +58,11 @@ export default function ExtraReiterferien() {
                       Was muss mitgebracht werden
                     </a>
                   </Button>
+                  <Button asChild variant="default" className="text-green underline">
+                    <a href="/Unterlagen/Allgemeine Geschäftsbedingungen (AGB).pdf" target="_blank">
+                    Allgemeine Geschäftsbedingungen AGB
+                    </a>
+                  </Button>
                 </div>
               </CardContent>
             </Card>
