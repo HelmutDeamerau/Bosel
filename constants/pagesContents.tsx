@@ -154,7 +154,7 @@ Je nach physischer und psychischer Eignung sowie unter Beachtung des Alters, des
     description: `Guter Reitunterricht bildet die Basis für dauerhafte Freude und Spaß am Reiten!
 Unser Ziel ist es:  Kindern (ab 8 Jahre), den Umgang mit dem Pferd zu ermöglichen und dir den Reitsport näher zu brin­gen.
 
-Du möchtest erste Erfahrungen auf dem Pferderücken sammeln, sich weiterbilden. Wir bieten fachkundigen Reitunterricht auf lieben, gut ausgebildeten Schulpferden (Ponys) bei qualifizierten, erfah­renen Reitlehrern. Großen Wert legen unsere Ausbilder auf eine vielseitige Grundausbildung und einen abwechslungsrei­chen Unterricht, denn sie sind beste Garanten, um dem Reitschüler sowohl Fertigkeiten als auch Freude im Sattel zu vermitteln.für Fragen Die Reitlehrerin : 1736062203`,
+Du möchtest erste Erfahrungen auf dem Pferderücken sammeln, sich weiterbilden. Wir bieten fachkundigen Reitunterricht auf lieben, gut ausgebildeten Schulpferden (Ponys) bei qualifizierten, erfah­renen Reitlehrern. Großen Wert legen unsere Ausbilder auf eine vielseitige Grundausbildung und einen abwechslungsrei­chen Unterricht, denn sie sind beste Garanten, um dem Reitschüler sowohl Fertigkeiten als auch Freude im Sattel zu vermitteln.Für Anfragen bitte anrufen : 0173/6062203`,
     
   },
 
