@@ -107,6 +107,9 @@
   .bg-green {
     background-color: var(--color-green);
   } 
+  .bg-greesh {
+    background-color: var(#4dd3ab);
+  } 
   .text-green {
     color: var(--color-green);
   } 
