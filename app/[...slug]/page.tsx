@@ -48,6 +48,7 @@ export default async function Page({ params }: PageProps) {
 
   const isKontaktPage = slugPath === "kontakt";
   const isReiterferienPage = slugPath === "reiterferien";
+  const isReitvereinPage = slugPath === "reitverein";
 
   return (
     <div className="bg-primary-foreground">
@@ -99,7 +100,7 @@ export default async function Page({ params }: PageProps) {
               </p>
               {content.content}
             </div>
-            {!isKontaktPage && <InfoCard />}
+           {!isKontaktPage && <InfoCard pageType={isReitvereinPage ? "reitverein" : undefined} />}
           </section>
           {content.extra && <section className="space-y-4">{content.extra}</section>}
           {content.images && (
