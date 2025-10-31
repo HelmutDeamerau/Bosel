@@ -261,12 +261,12 @@ export const ferienData: FerienDataType[] = [
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
   },
   {
-    season: 'Herbstferien 2026',
+    season: 'Herbstferien 2025',
     price: '400,00 Euro pro Kind und Ferienwoche (5 Übernachtungen)',
     dates: [
       { week: '1. Woche', from: '06.10.', to: '11.10.2025' },
       { week: '2. Woche', from: '13.10.', to: '18.10.2025' },
-       { week: '2. Woche', from: '13.10.', to: '18.10.2025' },
+      
     ],
     registrationForm: '/Unterlagen//Anmeldung_Herbst_2025.pdf',
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
