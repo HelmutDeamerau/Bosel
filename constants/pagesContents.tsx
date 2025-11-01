@@ -238,34 +238,34 @@ Jeder kann unserem Verein beitreten, der die Ziele und Interessen des Vereins, d
 
 export const ferienData: FerienDataType[] = [
   {
-    season: 'Osterferien 2025',
+    season: 'Osterferien 2026',
     price: '400,00 Euro pro Kind und Ferienwoche (5 Übernachtungen)',
     dates: [
-      { week: '1. Woche', from: '21.04.', to: '26.04.2025' }
+      { week: '1. Woche', from: '06.04', to: '11.04.2026' }
     ],
     registrationForm: '/Unterlagen//Anmeldung_Reiterferien_Ostern_2025.pdf',
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
   },
   {
-    season: 'Sommerferien 2025',
+    season: 'Sommerferien 2026',
     price: '400,00 Euro pro Kind und Ferienwoche (5 Übernachtungen)',
     dates: [
-      { week: '1. Woche', from: '30.06.', to: '05.07.2025' },
-      { week: '2. Woche', from: '07.07.', to: '12.07.2025' },
-      { week: '3. Woche', from: '14.07.', to: '19.07.2025' },
-      { week: '4. Woche', from: '21.07.', to: '26.07.2025' },
-      { week: '5. Woche', from: '28.07.', to: '01.08.2025' },
-      { week: '6. Woche', from: '04.08.', to: '09.08.2025' },
+      { week: '1. Woche', from: '06.07.', to: '11.07.2026' },
+      { week: '2. Woche', from: '13.07.', to: '18.07.2026' },
+      { week: '3. Woche', from: '20.07.', to: '25.07.2026' },
+      { week: '4. Woche', from: '27.07.', to: '01.08.2026' },
+      { week: '5. Woche', from: '03.08.', to: '08.08.2026' },
+      { week: '6. Woche', from: '10.08.', to: '15.08.2026' },
     ],
     registrationForm: '/Unterlagen/Anmeldung_Sommer_2025.pdf',
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
   },
   {
-    season: 'Herbstferien 2025',
+    season: 'Herbstferien 2026',
     price: '400,00 Euro pro Kind und Ferienwoche (5 Übernachtungen)',
     dates: [
-      { week: '1. Woche', from: '06.10.', to: '11.10.2025' },
-      { week: '2. Woche', from: '13.10.', to: '18.10.2025' },
+      { week: '1. Woche', from: '12.10.', to: '17.10.2026' },
+      { week: '2. Woche', from: '19.10.', to: '24.10.2026' },
       
     ],
     registrationForm: '/Unterlagen//Anmeldung_Herbst_2025.pdf',
