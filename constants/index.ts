@@ -71,26 +71,26 @@ export const FEATURES_CARD_CONTENT = [
     {
       title: "Osterferien 2026",
       description:
-        "1. Woche  21.04  bis  26.04.2025",
+        "1. Woche  06.04  bis  11.04.2026",
       image: "/Features/feature-1.webp",
     },
     {
-      title: "Sommerferien 2025",
+      title: "Sommerferien 20026",
       description:{
-        1:"Woche  30.06.  bis  05.07.2025.",
-        2:"Woche  07.07.  bis  12.07.2025",
-        3:"Woche  14.07.  bis  19.07.2025",
-        4:"Woche  21.07.  bis  26.07.2025",
-        5:"Woche  28.07.  bis  01.08.2025",
-        6:"Woche  04.08.  bis  09.08.2025",
+        1:"Woche  06.07.  bis  11.07.2026.",
+        2:"Woche  13.07.  bis  18.07.2026",
+        3:"Woche  20.07.  bis  25.07.2026",
+        4:"Woche  27.07.  bis  01.08.2026",
+        5:"Woche  03.08.  bis  08.08.2026",
+        6:"Woche  10.08.  bis  15.08.2026",
       },
       image: "/Features/feature-2.webp",
     },
     {
-      title: "Herbstferien 2025",
+      title: "Herbstferien 2026",
       description:{
-        1:"Woche  06.10 bis  11.10.2025 .",
-        2:"Woche  13.10.  bis  18.10.2025"
+        1:"Woche  12.10 bis  17.10.2026",
+        2:"Woche  19.10.  bis  24.10.2026"
         
       },
       image: "/Features/feature-3.webp",
