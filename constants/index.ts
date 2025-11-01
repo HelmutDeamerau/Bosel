@@ -69,7 +69,7 @@ export const SOCIALS = {
 
 export const FEATURES_CARD_CONTENT = [
     {
-      title: "Osterferien 2025",
+      title: "Osterferien 2026",
       description:
         "1. Woche  21.04  bis  26.04.2025",
       image: "/Features/feature-1.webp",
