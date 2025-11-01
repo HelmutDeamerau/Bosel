@@ -91,7 +91,7 @@ export const FEATURES_CARD_CONTENT = [
       description:{
         1:"Woche  06.10 bis  11.10.2025 .",
         2:"Woche  13.10.  bis  18.10.2025",
-        3:"Woche  23.10.  bis  28.10.2025,
+        3:"Woche  23.10.  bis  28.10.2025"
       },
       image: "/Features/feature-3.webp",
     },
