@@ -75,7 +75,7 @@ export const FEATURES_CARD_CONTENT = [
       image: "/Features/feature-1.webp",
     },
     {
-      title: "Sommerferien 20026",
+      title: "Sommerferien 2026",
       description:{
         1:"Woche  06.07.  bis  11.07.2026.",
         2:"Woche  13.07.  bis  18.07.2026",
