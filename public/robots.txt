@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin/*
+Disallow: /api/*
+Disallow: /404
+Disallow: /500
+
+# Host
+Host: https://reitanlage-bosel.de
+
+# Sitemaps
+Sitemap: https://reitanlage-bosel.de/sitemap.xml
