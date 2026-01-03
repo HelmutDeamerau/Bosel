@@ -243,7 +243,7 @@ export const ferienData: FerienDataType[] = [
     dates: [
       { week: '1. Woche', from: '06.04', to: '11.04.2026' }
     ],
-    registrationForm: '/Unterlagen//Anmeldung_Reiterferien_Ostern_2025.pdf',
+    registrationForm: '/Unterlagen//Anmeldung_Ostern.pdf',
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
   },
   {
@@ -257,7 +257,7 @@ export const ferienData: FerienDataType[] = [
       { week: '5. Woche', from: '03.08.', to: '08.08.2026' },
       { week: '6. Woche', from: '10.08.', to: '15.08.2026' },
     ],
-    registrationForm: '/Unterlagen/Anmeldung_Sommer_2025.pdf',
+    registrationForm: '/Unterlagen/Anmeldung_Sommer.pdf',
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
   },
   {
@@ -268,7 +268,7 @@ export const ferienData: FerienDataType[] = [
       { week: '2. Woche', from: '19.10.', to: '24.10.2026' },
       
     ],
-    registrationForm: '/Unterlagen//Anmeldung_Herbst_2025.pdf',
+    registrationForm: '/Unterlagen//Anmeldung_Herbst.pdf',
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
   }
 ];
