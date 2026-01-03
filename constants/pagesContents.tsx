@@ -257,7 +257,7 @@ export const ferienData: FerienDataType[] = [
       { week: '5. Woche', from: '03.08.', to: '08.08.2026' },
       { week: '6. Woche', from: '10.08.', to: '15.08.2026' },
     ],
-    registrationForm: '/Unterlagen/Anmeldung_Sommer.pdf',
+    registrationForm: '/Unterlagen//Anmeldung_Sommer.pdf',
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
   },
   {
