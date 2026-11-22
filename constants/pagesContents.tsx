@@ -241,7 +241,7 @@ export const ferienData: FerienDataType[] = [
     season: 'Osterferien 2026',
     price: '400,00 Euro pro Kind und Ferienwoche (5 Übernachtungen)',
     dates: [
-      { week: '1. Woche', from: '06.04', to: '11.04.2026' }
+      { week: '1. Woche', from: '06.04', to: '11.04.2027' }
     ],
     registrationForm: '/Unterlagen//Anmeldung_Ostern.pdf',
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
