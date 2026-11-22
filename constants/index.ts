@@ -71,7 +71,7 @@ export const FEATURES_CARD_CONTENT = [
     {
       title: "Osterferien 2026",
       description:
-        "1. Woche  06.04  bis  11.04.2026",
+        "1. Woche  06.04  bis  11.04.2027",
       image: "/Features/feature-1.webp",
     },
     {
