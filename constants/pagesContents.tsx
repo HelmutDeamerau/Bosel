@@ -238,34 +238,34 @@ Jeder kann unserem Verein beitreten, der die Ziele und Interessen des Vereins, d
 
 export const ferienData: FerienDataType[] = [
   {
-    season: 'Osterferien 2026',
+    season: 'Osterferien 2027',
     price: '400,00 Euro pro Kind und Ferienwoche (5 Übernachtungen)',
     dates: [
-      { week: '1. Woche', from: '06.04', to: '11.04.2027' }
+      { week: '1. Woche', from: '29.03', to: '03.04.2027' }
     ],
     registrationForm: '/Unterlagen//Anmeldung_Ostern.pdf',
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
   },
   {
-    season: 'Sommerferien 2026',
+    season: 'Sommerferien 2027',
     price: '400,00 Euro pro Kind und Ferienwoche (5 Übernachtungen)',
     dates: [
-      { week: '1. Woche', from: '06.07.', to: '11.07.2026' },
-      { week: '2. Woche', from: '13.07.', to: '18.07.2026' },
-      { week: '3. Woche', from: '20.07.', to: '25.07.2026' },
-      { week: '4. Woche', from: '27.07.', to: '01.08.2026' },
-      { week: '5. Woche', from: '03.08.', to: '08.08.2026' },
-      { week: '6. Woche', from: '10.08.', to: '15.08.2026' },
+      { week: '1. Woche', from: '12.07.', to: '17.07.2027' },
+      { week: '2. Woche', from: '19.07.', to: '24.07.2027' },
+      { week: '3. Woche', from: '26.07.', to: '31.07.2027' },
+      { week: '4. Woche', from: '02.08.', to: '07.08.2027' },
+      { week: '5. Woche', from: '09.08.', to: '14.08.2027' },
+      { week: '6. Woche', from: '16.08.', to: '21.08.2027' },
     ],
     registrationForm: '/Unterlagen//Anmeldung_Sommer.pdf',
     mitbringen: '/Unterlagen//mitbringen-liste.pdf'
   },
   {
-    season: 'Herbstferien 2026',
+    season: 'Herbstferien 2027',
     price: '400,00 Euro pro Kind und Ferienwoche (5 Übernachtungen)',
     dates: [
-      { week: '1. Woche', from: '12.10.', to: '17.10.2026' },
-      { week: '2. Woche', from: '19.10.', to: '24.10.2026' },
+      { week: '1. Woche', from: '11.10.', to: '16.10.2027' },
+      { week: '2. Woche', from: '18.10.', to: '23.10.2027' },
       
     ],
     registrationForm: '/Unterlagen//Anmeldung_Herbst.pdf',
