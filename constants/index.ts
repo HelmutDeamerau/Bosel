@@ -69,28 +69,28 @@ export const SOCIALS = {
 
 export const FEATURES_CARD_CONTENT = [
     {
-      title: "Osterferien 2026",
+      title: "Osterferien 2027",
       description:
-        "1. Woche  06.04  bis  11.04.2027",
+        "1. Woche  29.03  bis 03.04.2027",
       image: "/Features/feature-1.webp",
     },
     {
-      title: "Sommerferien 2026",
+      title: "Sommerferien 2027",
       description:{
-        1:"Woche  06.07.  bis  11.07.2026.",
-        2:"Woche  13.07.  bis  18.07.2026",
-        3:"Woche  20.07.  bis  25.07.2026",
-        4:"Woche  27.07.  bis  01.08.2026",
-        5:"Woche  03.08.  bis  08.08.2026",
-        6:"Woche  10.08.  bis  15.08.2026",
+        1:"Woche  12.07  bis  17.07.2027",
+        2:"Woche  19.07.  bis  24.07.2027",
+        3:"Woche  26.07.  bis  31.07.2027",
+        4:"Woche  02.08.  bis  07.08.2027",
+        5:"Woche  09.08.  bis  14.08.2027",
+        6:"Woche  16.08.  bis  21.08.2027",
       },
       image: "/Features/feature-2.webp",
     },
     {
-      title: "Herbstferien 2026",
+      title: "Herbstferien 2027",
       description:{
-        1:"Woche  12.10 bis  17.10.2026",
-        2:"Woche  19.10.  bis  24.10.2026"
+        1:"Woche  11.10 bis  16.10.2027",
+        2:"Woche  18.10.  bis  23.10.2027"
         
       },
       image: "/Features/feature-3.webp",
